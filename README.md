@@ -7,9 +7,9 @@
   Сайт товаров для животных
   <br />
   <br />
-  <a href="https://github.com/14xyegriz88/WebstoreDOG/issues/new">Report a Bug</a>
+  <a href="https://github.com/PumpKing07/zoo-magazine/issues/new">Report a Bug</a>
   ·
-  <a href="https://github.com/14xyegriz88/WebstoreDOG/pulls">Request a Feature</a>
+  <a href="https://github.com/PumpKing07/zoo-magazine/pulls">Request a Feature</a>
   .
 </div>
 
@@ -39,11 +39,11 @@
 
 ### В терминале Git Bash
 ```sh
-$git clone "https://github.com/14xyegriz88/WebstoreDOG.git"
+$git clone "https://github.com/PumpKing07/zoo-magazine.git"
 ```
 ### В терминале Powershell
 ```sh
-cd WebstoreDOG
+cd oo-magazine
 ```
 ![Image alt](https://github.com/14xyegriz88/WebstoreDOG/blob/main/image.png)
 ```sh
