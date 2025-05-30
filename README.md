@@ -52,8 +52,8 @@ npm run dev
 
 
 ## Наши планы
-- [Исправление Багов](https://github.com/14xyegriz88/WebstoreDOG/issues)
-- [Улучшение пользовательского интерфейса](https://github.com/14xyegriz88/WebstoreDOG/pulls)
+- [Исправление Багов](https://github.com/PumpKing07/zoo-magazine/issues)
+- [Улучшение пользовательского интерфейса](https://github.com/PumpKing07/zoo-magazine/pulls)
 
 ## Авторы
 - Иван
